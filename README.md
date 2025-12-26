@@ -46,5 +46,3 @@ streamlit run app.py
 * Support **multi-language** roasts and compliments.
 * Add **user authentication** to save personalized histories.
 * Integrate **animated reactions** beyond GIFs for richer UX.
-
-Do you want me to do that next?
